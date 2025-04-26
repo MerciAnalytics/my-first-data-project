@@ -10,4 +10,6 @@ Early dashboard creation attempts
 
 Other projects that show my progress as I develop my data skills
 
-I am passionate about growing my abilities, and this space will be regularly updated as I complete new projects.
+About Me
+
+I am passionate about growing my data analytics abilities.  This space will be regularly updated as I complete new projects and build my portfolios.
