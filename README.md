@@ -1,3 +1,6 @@
+****My Data Analytic Portfolio****
+
+Welcome to my Data Analytic Portfolio!
 This repository contains my beginner projects as I learn data analytics using Microsoft Excel. Here, you will find:
 
 Basic data cleaning exercises
