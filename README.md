@@ -46,7 +46,7 @@ Used formulas to:
 - Preventing auto-date conversion (e.g. `1-5` becoming `5-Jan`)
   
 **Solutions:**
-- Use an apostrophe (`'1-5`)
+- Use an apostrophe (`'1-5`) 
 - Pre-format cells as Text
 - Use en dash: `1–5` (Alt + 0150)
 
