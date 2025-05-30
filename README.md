@@ -20,16 +20,22 @@ Documented key ribbons and tools in the following Excel tabs:-
 - Page Layout
 - Formulas
 
-**Week 2 – Data Cleaning with Kutools:-**
+**Week 2 – Data Cleaning with Kutools**
 
-Focused on:
-- Copying data between sheets
-- Detecting and removing duplicates using Kutools
-- Keeping the original data intact
-- Cleaned version stored in Sheet2
-  
-**Tools Used:**  
-Excel (Home, Data, Kutools), Kutools Add-in
+This week focused on applying Excel tools and the Kutools add-in to clean and organize data while maintaining data integrity.
+
+Tasks Completed:
+- Copied data between sheets for backup and reference
+- Used **Kutools** to detect and highlight duplicates
+- Selected **"All duplicates (Except 1st one)"** to preserve first occurrences
+- Deleted duplicate rows while keeping the original data sheet untouched
+- Maintained a cleaned version on **Sheet2**
+
+ Tools Used:
+- Microsoft Excel (Tabs: Home, Data)
+- **Kutools** Add-in for advanced Excel functionality
+
+This exercise improved my data cleaning workflow and demonstrated how to safely modify data without losing the original.
 
 **Week 3 – COUNTIF/COUNTIFS Practice:-**
 
@@ -43,12 +49,12 @@ Used formulas to:
 **Key Concepts:**
 - Referencing sheets safely
 - Editing data without loss
-- Preventing auto-date conversion (e.g. `1-5` becoming `5-Jan`)
+- Preventing auto-date conversion (e.g., `1-5` becoming `5-Jan`)
   
 **Solutions:**
-- Use an apostrophe (`'1-5`)
-- Pre-format cells as Text
-- Use en dash: `1–5` (Alt + 0150)
+- Used an apostrophe (`'1-5`)
+- Pre-formatted cells as Text
+- Used en dash: `1–5` (Alt + 0150)
 
 **About Me**
 I am passionate about growing my data analytics abilities and creating a professional portfolio of my learning journey.  
